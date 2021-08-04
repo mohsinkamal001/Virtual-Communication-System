@@ -1,3 +1,0 @@
-log in: (log.blade.php): 
-
-register: 
